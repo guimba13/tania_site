@@ -1,0 +1,24 @@
+   .input-prepend input:focus,
+.input-append input:focus,
+.input-prepend select:focus,
+.input-append select:focus,
+.input-prepend .uneditable-input:focus,
+.input-append .uneditable-input:focus, textarea:focus {
+    
+    
+    border: 1px solid #D9D9D9 !important;
+ 
+ 
+}
+
+
+
+.nivo-block-caption:before { /* ie8 dosn't support proper transparency so we hide the element */
+    display: none !important;
+}
+
+
+
+.content-testimonials li {
+   border:1px solid #E4E4E4 !important;
+}

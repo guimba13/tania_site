@@ -1,0 +1,103 @@
+ul.js-jquery-dropdown ul li { /* top dropdown menu fix */
+    display: inline; 
+    width: 100%; 
+    z-index: 9999;
+} 
+
+ul.js-jquery-dropdown ul {
+    z-index: 9999;
+}
+
+.js-jquery-dropdown {
+    z-index: 9999;
+}
+
+.image-wrap img { /* 1px shadow fix */
+    top:1px !important;
+}
+
+
+.sub_menu_arrow { /* ie7 fix for the small arrow from the menu */
+     zoom: 1 !important;
+     display: inline !important;
+}
+
+
+.header-barWrapper { /* header bar zindex 'fix' */
+
+}
+
+/* pricing table */
+.page-pricing-table {
+    height: 500px !important;
+}
+
+
+
+#ascrail2000, #ascrail2001 {
+    display: none !important;
+}
+
+
+/* form elements fix */
+.input-prepend input, .input-append input {
+    height: 21px !important;
+    line-height: 21px;
+}
+
+/* typology fix */
+.ty-full-width {
+    padding-right: 20px !important;
+}
+
+
+/* css table cells and rows fix */
+.page-cell {
+    height: 20px;
+    line-height: 20px;
+    padding: 0px;
+}
+
+.page-row {
+    height: 20px;
+    line-height: 20px;
+}
+
+
+/* testimonials carusel fix */
+.content-testimonials li {
+   border:1px solid #E4E4E4 !important;
+}
+
+.content-testimonials li img {
+    left:80px !important;
+}
+
+
+#fancybox-close {
+    display: none !important;
+}
+
+.contact-info {
+    overflow: hidden !important;
+}
+
+
+
+.portofolio-new-wrap {
+    z-index: 0 !important;
+}
+
+
+.sub_menu_arrow { /* ie7 fix for the small arrow from the menu */
+     zoom: 1 !important;
+     display: inline !important;
+}
+
+.portofolio-box img {
+    z-index: -1;
+}
+
+.portofolio-nav-wrap {
+    display: none !important;
+}
